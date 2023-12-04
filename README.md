@@ -1,4 +1,4 @@
-![alt text](https://github.com/aryawangi/SiPeKa-apk-absensi-online/blob/main/readme/Poster%20SiPeKa.png)?raw=true)
+![alt text](https://github.com/aryawangi/SiPeKa-apk-absensi-online/blob/main/readme/Poster.png)?raw=true)
 
 # SiPeKa-apk-absensi-online
 SiPeKa (Sistem Presensi Kehadiran) merupakan aplikasi mobile yang dirancang untuk memudahkan pencatatan dan pengelolaan kehadiran siswa dalam lingkungan pendidikan. 

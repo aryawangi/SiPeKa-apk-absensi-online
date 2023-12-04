@@ -17,7 +17,11 @@ keterangan.
 kuliah atau diri mereka sebagai bukti kehadiran.
 5. Histori Kehadiran: Menampilkan riwayat kehadiran siswa dalam bentuk daftar.
 
-Aplikasi ini merupakan project akhir dari kelompok 8 [Program Studi S1 Pendidikan Teknologi Informasi 2022](https://pendidikan-ti.ft.unesa.ac.id) [Fakultas Teknik](https://ft.unesa.ac.id) [Universitas Negeri Surabaya](https://www.unesa.ac.id/)
+Aplikasi ini merupakan project akhir dari kelompok 8
+[Program Studi S1 Pendidikan Teknologi Informasi 2022]
+(https://pendidikan-ti.ft.unesa.ac.id) 
+[Fakultas Teknik](https://ft.unesa.ac.id) 
+[Universitas Negeri Surabaya](https://www.unesa.ac.id/)
 
 # Anggota Kelompok
 1. Raka Tegar Wicaksono (22050974019)

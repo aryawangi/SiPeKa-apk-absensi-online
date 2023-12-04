@@ -3,6 +3,7 @@
 # SiPeKa-apk-absensi-online
 SiPeKa (Sistem Presensi Kehadiran) merupakan aplikasi mobile yang dirancang untuk memudahkan pencatatan dan pengelolaan kehadiran siswa dalam lingkungan pendidikan. 
 Dengan menggunakan kamera ponsel pintar, aplikasi ini memungkinkan siswa untuk melakukan absensi dengan mengambil foto tempat kuliah atau diri mereka sebagai bukti kehadiran yang otentik. 
+
 SiPeKa menciptakan solusi yang lebih modern, efisien, dan aman untuk pengelolaan kehadiran siswa di berbagai tingkat pendidikan, mulai dari sekolah menengah hingga perguruan tinggi. Selain itu aplikasi ini dirancang dengan fokus pada kemudahan penggunaan. Dengan antarmuka yang intuitif, siswa dan dosen agar dapat dengan cepat memahami cara menggunakannya. 
 Dengan demikian, pengguna dan dosen akademik dapat dengan mudah memantau kehadiran dan partisipasi.
 

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "8240239443",
+    "project_id": "ension-e4a1a",
+    "storage_bucket": "ension-e4a1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8240239443:android:2da0fc0e385a30904c87a6",
+        "android_client_info": {
+          "package_name": "com.ension.if9"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8240239443-vpsgq28d1k9e3ipp83o7b190acln9lgt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ension.if9",
+            "certificate_hash": "73fe80402152f16b12e60180df45fa7d879bbced"
+          }
+        },
+        {
+          "client_id": "8240239443-c674hsgbe5hckfnj0gm4p0lgt3m2u606.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcJsSc6-FIQQ1adQiaK-HdCtxyulLFBVM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8240239443-c674hsgbe5hckfnj0gm4p0lgt3m2u606.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
